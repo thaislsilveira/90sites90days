@@ -1,95 +1,99 @@
-# Desafio: desenvolver um site por dia durante 90 dias
-Olá! Me chamo [Dorly](https://www.linkedin.com/in/dorlyneto/) e há 10 anos trabalho em startups de tecnologia, tendo executado várias funções entre marketing e produto. 
+<p align="center">
+  <img src="https://hotmart.s3.amazonaws.com/product_contents/0569fee6-8c8f-4dee-a46d-80102ced177a/Header_Product_1920x450.jpg" width="800px"/>
+  <img src="https://media.giphy.com/media/MWs2BwfpYH53dWsEf8/giphy.gif" width="300px"/>
+  <img src ="https://media.giphy.com/media/MztNeA9U3Hp6vIgqpj/giphy.gif" width="300px"  />
+</p>
+<br />
+<p align="center"><strong>🧮 Calculadora Científica 🧮</strong></p>
 
-Eu sei apenas o básico do básico de programação. Inspirado pelo meu trabalho no desenvolvimento dos devs da [Rocketseat](https://rocketseat.com.br/), e no intuito de acelerar o meu aprendizado, decidi desenvolver um site por dia, pelos próximos 90 dias.
+<p align="center">Projeto em grupo desenvolvido durante a formação de mentores do time SpaceSquad da RocketSeat.</p>
 
-Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-90-dias/) eu conto um pouco sobre como tive essa ideia e quais são meus objetivos.
 
-Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
+<br />
+<p  align="center">
+  <a  href="">
+  <img  src="https://img.shields.io/github/stars/thaislsilveira/refatorando-calculadora"/>
+  </a>
+  <img  src="https://img.shields.io/github/forks/thaislsilveira/refatorando-calculadora"/>
+  </>
+</p>
 
-## Sites lançados até agora:
-* Site #88 - [Buscador de GIFs](https://github.com/dorlyneto/90sites90days/tree/master/90sites/88-buscador-gifs)
-* Site #87 - [Asteroides](https://github.com/dorlyneto/90sites90days/tree/master/90sites/87-asteroides)
-* Site #86 - [Reta final](https://github.com/dorlyneto/90sites90days/tree/master/90sites/86-reta-final)
-* Site #85 - [Lançamento](https://github.com/dorlyneto/90sites90days/tree/master/90sites/85-lancamento)
-* Site #84 - [Quebre o like](https://github.com/dorlyneto/90sites90days/tree/master/90sites/84-quebre-o-like)
-* Site #83 - [Pokédex](https://github.com/dorlyneto/90sites90days/tree/master/90sites/83-pokedex)
-* Site #82 - [Halloween](https://github.com/dorlyneto/90sites90days/tree/master/90sites/82-halloween)
-* Site #81 - [Garoa](https://github.com/dorlyneto/90sites90days/tree/master/90sites/81-garoa)
-* Site #80 - [Sucré](https://github.com/dorlyneto/90sites90days/tree/master/90sites/80-sucre)
-* Site #79 - [Chuva](https://github.com/dorlyneto/90sites90days/tree/master/90sites/79-chuva)
-* Site #78 - [Estilingue](https://github.com/dorlyneto/90sites90days/tree/master/90sites/78-estilingue)
-* Site #77 - [Sinapses](https://github.com/dorlyneto/90sites90days/tree/master/90sites/77-sinapses)
-* Site #76 - [Editor de texto](https://github.com/dorlyneto/90sites90days/tree/master/90sites/76-editor-texto)
-* Site #75 - [Física](https://github.com/dorlyneto/90sites90days/tree/master/90sites/75-fisica)
-* Site #74 - [Gerador de QR Code](https://github.com/dorlyneto/90sites90days/tree/master/90sites/74-gerador-qr-code)
-* Site #73 - [Jogo da paulada](https://github.com/dorlyneto/90sites90days/tree/master/90sites/73-jogo-da-paulada)
-* Sites #70 ao #72 - estive dodói :(
-* Site #69 - [Ping pong](https://github.com/dorlyneto/90sites90days/tree/master/90sites/69-ping-pong)
-* Site #68 - [Sonoplastia](https://github.com/dorlyneto/90sites90days/tree/master/90sites/68-sonoplastia)
-* Site #67 - [Jogo da galinha](https://github.com/dorlyneto/90sites90days/tree/master/90sites/67-jogo-da-galinha)
-* Site #66 - [keyCode](https://github.com/dorlyneto/90sites90days/tree/master/90sites/66-keycode)
-* Site #65 - [Ondas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/65-ondas)
-* Site #64 - [Lista de tarefas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/64-lista-de-tarefas)
-* Site #63 - [Pista de dança](https://github.com/dorlyneto/90sites90days/tree/master/90sites/63-pista-de-danca)
-* Site #62 - [Contra-mão](https://github.com/dorlyneto/90sites90days/tree/master/90sites/62-contra-mao)
-* Site #61 - [Metrônomo](https://github.com/dorlyneto/90sites90days/tree/master/90sites/61-metronomo)
-* Site #60 - [Catioro](https://github.com/dorlyneto/90sites90days/tree/master/90sites/60-catioro)
-* Site #59 - [Beatmaking](https://github.com/dorlyneto/90sites90days/tree/master/90sites/59-beatmaking)
-* Site #58 - [Jogo da forca](https://github.com/dorlyneto/90sites90days/tree/master/90sites/58-jogo-da-forca)
-* Site #57 - [Jogo da velha](https://github.com/dorlyneto/90sites90days/tree/master/90sites/57-jogo-da-velha)
-* Site #56 - [Genius](https://github.com/dorlyneto/90sites90days/tree/master/90sites/56-genius)
-* Site #55 - [Gerador de labirinto](https://github.com/dorlyneto/90sites90days/tree/master/90sites/55-gerador-de-labirinto)
-* Site #54 - [Árvore](https://github.com/dorlyneto/90sites90days/tree/master/90sites/54-arvore)
-* Sites #51 ao #53 - não fiz, precisava dormir rs
-* Site #50 - [Piano](https://github.com/dorlyneto/90sites90days/tree/master/90sites/50-piano)
-* Site #49 - [Jogo da cobrinha](https://github.com/dorlyneto/90sites90days/tree/master/90sites/49-jogo-da-cobrinha)
-* Site #48 - [Frequências](https://github.com/dorlyneto/90sites90days/tree/master/90sites/48-frequencias)
-* Site #47 - [Diário das cores](https://github.com/dorlyneto/90sites90days/tree/master/90sites/47-diario-das-cores)
-* Site #46 - [Palavras embaralhadas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/46-palavras-embaralhadas)
-* Site #45 - [Jogo do passarinho](https://github.com/dorlyneto/90sites90days/tree/master/90sites/45-jogo-do-passarinho)
-* Site #44 - [Binário-decimal](https://github.com/dorlyneto/90sites90days/tree/master/90sites/44-binario-decimal)
-* Site #43 - [Chuva de corações](https://github.com/dorlyneto/90sites90days/tree/master/90sites/43-chuva-coracoes)
-* Site #42 - [Light-Dark](https://github.com/dorlyneto/90sites90days/tree/master/90sites/42-light-dark)
-* Site #41 - [Contador de vogais](https://github.com/dorlyneto/90sites90days/tree/master/90sites/41-contador-de-vogais)
-* Site #40 - [Gerador de senhas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/40-gerador-de-senhas)
-* Site #39 - [Acerte o número](https://github.com/dorlyneto/90sites90days/tree/master/90sites/39-acerte-o-numero)
-* Site #38 - [Crônica do anoitecer](https://github.com/dorlyneto/90sites90days/tree/master/90sites/38-anoitecer)
-* Site #37 - [Emoji curioso](https://github.com/dorlyneto/90sites90days/tree/master/90sites/37-emoji-curioso)
-* Site #36 - [Carnaval](https://github.com/dorlyneto/90sites90days/tree/master/90sites/36-carnaval)
-* Site #35 - [Eclipse](https://github.com/dorlyneto/90sites90days/tree/master/90sites/35-eclipse)
-* Site #34 - [Jogo da multiplicação](https://github.com/dorlyneto/90sites90days/tree/master/90sites/34-multiplicacao)
-* Site #33 - [Muitas bolinhas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/33-muitas-bolinhas)
-* Site #32 - [Eureca](https://github.com/dorlyneto/90sites90days/tree/master/90sites/32-eureca)
-* Site #31 - [Sigam-me os bons!](https://github.com/dorlyneto/90sites90days/tree/master/90sites/31-sigam-me)
-* Site #30 - [Beba água!](https://github.com/dorlyneto/90sites90days/tree/master/90sites/30-beba-agua)
-* Site #29 - [Quiz das capivaras](https://github.com/dorlyneto/90sites90days/tree/master/90sites/29-quiz)
-* Site #28 - [Sabedoria popular](https://github.com/dorlyneto/90sites90days/tree/master/90sites/28-sabedoria-popular)
-* Site #27 - [Faça um desenho](https://github.com/dorlyneto/90sites90days/tree/master/90sites/27-desenho)
-* Site #26 - [Contador de visitas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/26-contador-visitas)
-* Site #25 - [Somar](https://github.com/dorlyneto/90sites90days/tree/master/90sites/25-somar)
-* Site #24 - [Saudação](https://github.com/dorlyneto/90sites90days/tree/master/90sites/24-saudacao)
-* Site #23 - [Ano Novo](https://github.com/dorlyneto/90sites90days/tree/master/90sites/23-ano-novo)
-* Site #22 - [Cronômetro](https://github.com/dorlyneto/90sites90days/tree/master/90sites/22-cronometro)
-* Site #21 - [Relógio digital](https://github.com/dorlyneto/90sites90days/tree/master/90sites/21-relogio-digital)
-* Site #20 - [Contador](https://github.com/dorlyneto/90sites90days/tree/master/90sites/20-contador)
-* Site #19 - [Olar](https://github.com/dorlyneto/90sites90days/tree/master/90sites/19-olar)
-* Site #18 - [Colorir](https://github.com/dorlyneto/90sites90days/tree/master/90sites/18-colorir)
-* Site #17 - [Jogo do reflexo](https://github.com/dorlyneto/90sites90days/tree/master/90sites/17-reflexo)
-* Site #16 - [Jogo da memória](https://github.com/dorlyneto/90sites90days/tree/master/90sites/16-jogo-da-memoria)
-* Site #15 - [Pedra, papel ou tesoura?](https://github.com/dorlyneto/90sites90days/tree/master/90sites/15-pedra-papel-tesoura)
-* Site #14 - [Contador de caracteres](https://github.com/dorlyneto/90sites90days/tree/master/90sites/14-caracteres)
-* Site #13 - [Codar](https://github.com/dorlyneto/90sites90days/tree/master/90sites/13-codar)
-* Site #12 - [Visão](https://github.com/dorlyneto/90sites90days/tree/master/90sites/12-visao)
-* Site #11 - [Tons de roxo](https://github.com/dorlyneto/90sites90days/tree/master/90sites/11-tons-de-roxo)
-* Site #10 - [Estoure os balões](https://github.com/dorlyneto/90sites90days/tree/master/90sites/10-estoure-os-baloes)
-* Site #09 - [Bateria](https://github.com/dorlyneto/90sites90days/tree/master/90sites/09-bateria)
-* Site #08 - [Tente clicar](https://github.com/dorlyneto/90sites90days/tree/master/90sites/08-tente-clicar)
-* Site #07 - [Desconecte-se](https://github.com/dorlyneto/90sites90days/tree/master/90sites/07-desconecte-se)
-* Site #06 - [Relógio analógico](https://github.com/dorlyneto/90sites90days/tree/master/90sites/06-relogioanalogico)
-* Site #05 - [Bom dia grupo](https://github.com/dorlyneto/90sites90days/tree/master/90sites/05-bomdiagrupo)
-* Site #04 - [Catavento](https://github.com/dorlyneto/90sites90days/tree/master/90sites/04-catavento)
-* Site #03 - [Carrossel de poemas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/03-carrosseldepoemas)
-* Site #02 - [Clique Aqui](https://github.com/dorlyneto/90sites90days/tree/master/90sites/02-cliqueaqui)
-* Site #01 - [Calculadora](https://github.com/dorlyneto/90sites90days/tree/master/90sites/01-calculadora)
-* Site #00 - [Home do projeto](https://www.dorlyneto.com)
+
+# :pushpin: Roadmap
+
+* [:rocket: Features](#rocket-features)
+
+* [:robot: Tecnologias](#robot-tecnologias)
+
+* [:construction_worker: Instalação](#construction_worker-instalação)
+
+* [:bug: Encontrou um bug? Faltando uma feature específica?](#bug-issues)
+
+* [:closed_book: License](#closed_book-license)
+
+
+<br />
+
+# :rocket: Features
+👉 Esse projeto foi baseado no **projeto #1** do Desafio [90sites90days](https://github.com/dorlyneto/90sites90days) do Mestre [Dorly Neto](https://github.com/dorlyneto)
+
+<p>🔥 Uma Calculadora Científica temática</p>
+
+
+<br />
+
+## :robot: Tecnologias
+
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+
+<br />
+
+# :construction_worker: Instalação
+
+
+URLs SSH fornecem acesso a um repositório Git via SSH, um protocolo seguro. Se você usar uma chave SSH registrada em sua conta do Github, clone o projeto usando este comando:
+
+
+```git clone git@github.com:thaislsilveira/refatorando-calculadora```
+
+
+Apos fazer o clone, rode o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no VSCode.<br />
+
+
+   
+<br />
+
+
+
+# :bug: Issues
+
+
+
+Sinta-se à vontade para **registrar um novo problema** com o respectivo título e descrição neste repositório. 
+Se você já encontrou uma solução para o seu problema **Não fique de fora e venha ajudar :)**!
+
+
+
+<br />
+
+
+
+
+
+
+
+
+<br/>
+
+# :closed_book: License
+
+
+Released in 2020.
+
+💜🚀 Made with love by 🚀💜 <br />
+👩‍🚀 [Thaís Silveira](https://github.com/thaislsilveira) <br /> 
+👩‍🚀 [Priscila Pinheiro](https://github.com/pripinheiro) <br />
+👨‍🚀 [Ruanderson Vieira](https://github.com/Ruandersonvieira) <br />
+👨‍🚀 [Breno Romeiro](https://github.com/obrenoco) 
