@@ -16,7 +16,11 @@ function equal() {
 
     document.getElementById('equation').value = eval(equation);
   } catch{
-    return document.getElementById('equation').value = 'Erro de sintaxe';
+    document.getElementById('equation').value = 'Erro de sintaxe';
+
+    setTimeout(function() {
+      document.getElementById('equation').value = ''
+    }, 500);
   }
 }
 
